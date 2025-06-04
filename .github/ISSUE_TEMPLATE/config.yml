@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌸 Python 學習花園首頁
+    url: https://github.com/pppeee861005/python-learning-garden
+    about: 回到學習花園首頁瀏覽所有學習內容
+  - name: 📚 學習指南
+    url: https://github.com/pppeee861005/python-learning-garden/blob/master/學習花園建立指南.md
+    about: 查看完整的學習花園使用指南
+  - name: 🤝 協作指南
+    url: https://github.com/pppeee861005/python-learning-garden/blob/master/CONTRIBUTING.md
+    about: 了解如何參與學習花園的協作
