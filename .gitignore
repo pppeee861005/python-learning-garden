@@ -1,0 +1,29 @@
+# 忽略包含敏感資訊的檔案
+*.ps1
+*token*
+*key*
+
+# 忽略系統檔案
+.DS_Store
+Thumbs.db
+
+# 忽略編輯器檔案
+.vscode/
+.idea/
+
+# 忽略 Python 相關檔案
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# 忽略日誌檔案
+*.log
+
+# 忽略暫存檔案
+*.tmp
+*.temp
