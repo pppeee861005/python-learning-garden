@@ -3,7 +3,7 @@ text = (
     "steve@apple.com brian@ibm.com rocky@google.com Mon Jan 7"
 )
 
-print(" 【方法一:使用str.find() 】")
+print(" 【方法一:使用str.find() 】")#11122
 domains = []
 start = 0
 while True:
