@@ -7,7 +7,7 @@ def find_kth(nums, k):
     
     def min_index(lst):#找到最小的數字的索引
         mini_i = 0
-        for i in range(1, len(lst)):
+        for i in range(1, len(lst)):#111
             if lst[i] < lst[mini_i]:#第一個先和第二個比，得到最小的x。然後x再和第三個比..第四個比。直到找到最小的
                 mini_i = i#更新最小(索引值)
         return mini_i
